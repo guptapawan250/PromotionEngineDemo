@@ -7,3 +7,9 @@ C:\Users\MEGHA GUPTA\Documents\GitHub\ProblemStatementForPromotionEngine\Problem
 C:\Users\MEGHA GUPTA\Documents\GitHub\ProblemStatementForPromotionEngine\ProblemStatementForPromotionEngine\bin\Debug\ProblemStatementForPromotionEngine.exe.config
 C:\Users\MEGHA GUPTA\Documents\GitHub\ProblemStatementForPromotionEngine\ProblemStatementForPromotionEngine\obj\Debug\ProblemStatementForPromotionEngine.exe
 C:\Users\MEGHA GUPTA\Documents\GitHub\ProblemStatementForPromotionEngine\ProblemStatementForPromotionEngine\obj\Debug\ProblemStatementForPromotionEngine.pdb
+C:\Users\MEGHA GUPTA\Documents\GitHub\Demo\ProblemStatementForPromotionEngine\bin\Debug\ProblemStatementForPromotionEngine.exe.config
+C:\Users\MEGHA GUPTA\Documents\GitHub\Demo\ProblemStatementForPromotionEngine\obj\Debug\ProblemStatementForPromotionEngine.exe
+C:\Users\MEGHA GUPTA\Documents\GitHub\Demo\ProblemStatementForPromotionEngine\obj\Debug\ProblemStatementForPromotionEngine.pdb
+C:\Users\MEGHA GUPTA\Documents\GitHub\Demo\ProblemStatementForPromotionEngine\bin\Debug\ProblemStatementForPromotionEngine.exe
+C:\Users\MEGHA GUPTA\Documents\GitHub\Demo\ProblemStatementForPromotionEngine\bin\Debug\ProblemStatementForPromotionEngine.pdb
+C:\Users\MEGHA GUPTA\Documents\GitHub\Demo\ProblemStatementForPromotionEngine\obj\Debug\ProblemStatementForPromotionEngine.csprojResolveAssemblyReference.cache
